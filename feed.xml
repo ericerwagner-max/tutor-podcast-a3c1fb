@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<channel>
+<title>Tutor — Weekly Shoulder Literature</title>
+<link>https://ericerwagner-max.github.io/tutor-podcast-a3c1fb</link>
+<language>en-us</language>
+<description>A weekly 20–30 minute two-host walk through the past week of shoulder-surgery literature — key studies, corresponding authors, and clinically relevant takeaways. Generated automatically from PubMed.</description>
+<itunes:author>Eric R. Wagner, MD, MSc</itunes:author>
+<itunes:explicit>false</itunes:explicit>
+<itunes:owner><itunes:name>Eric R. Wagner, MD, MSc</itunes:name><itunes:email>eric.erwagner@gmail.com</itunes:email></itunes:owner>
+<itunes:summary>A weekly 20–30 minute two-host walk through the past week of shoulder-surgery literature — key studies, corresponding authors, and clinically relevant takeaways. Generated automatically from PubMed.</itunes:summary>
+<itunes:category text="Science"><itunes:category text="Medicine"/></itunes:category>
+</channel>
+</rss>
