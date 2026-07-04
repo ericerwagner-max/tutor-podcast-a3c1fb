@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<channel>
+<title>Tutor — Weekly Shoulder Literature</title>
+<link>https://ericerwagner-max.github.io/tutor-podcast-a3c1fb</link>
+<language>en-us</language>
+<description>A weekly 20–30 minute two-host walk through the past week of shoulder-surgery literature — key studies, corresponding authors, and clinically relevant takeaways. Generated automatically from PubMed.</description>
+<itunes:author>Eric R. Wagner, MD, MSc</itunes:author>
+<itunes:image href="https://ericerwagner-max.github.io/tutor-podcast-a3c1fb/cover.png"/>
+<image><url>https://ericerwagner-max.github.io/tutor-podcast-a3c1fb/cover.png</url><title>Tutor — Weekly Shoulder Literature</title><link>https://ericerwagner-max.github.io/tutor-podcast-a3c1fb</link></image>
+<itunes:explicit>false</itunes:explicit>
+<itunes:owner><itunes:name>Eric R. Wagner, MD, MSc</itunes:name><itunes:email>eric.erwagner@gmail.com</itunes:email></itunes:owner>
+<itunes:summary>A weekly 20–30 minute two-host walk through the past week of shoulder-surgery literature — key studies, corresponding authors, and clinically relevant takeaways. Generated automatically from PubMed.</itunes:summary>
+<itunes:category text="Science"><itunes:category text="Medicine"/></itunes:category>
+<item>
+<title>Shoulder Literature — 2026-07-04</title>
+<itunes:author>Eric R. Wagner, MD, MSc</itunes:author>
+<pubDate>Sat, 04 Jul 2026 08:00:00 +0000</pubDate>
+<guid isPermaLink="false">2026-07-04 Tutor.m4a</guid>
+<itunes:duration>19:50</itunes:duration>
+<itunes:image href="https://ericerwagner-max.github.io/tutor-podcast-a3c1fb/cover.png"/>
+<description>Weekly Shoulder Surgery Literature Digest — 2026-07-04
+Pulled from PubMed across JSES, JSES International, AJSM, JAAOS, Arthroscopy, JBJS Am, and Bone &amp; Joint Journal. The last-7-days entry-date window (2026-06-27 to 2026-07-04) was sparse for genuinely new shoulder content — most hits duplicated last week's digest — so the window was widened to 14 days (2026-06-20 to 2026-07-04) per program rules. Letters, errata, author replies, editorials, and non-shoulder items (elbow, hip, knee, wrist) were excluded. 16 articles included this week.
+---
+ Journal of Shoulder and Elbow Surgery (10)
+Assistant Experience Enhances the Learning Curve in Reverse Total Shoulder Arthroplasty: A Comparative CUSUM Analysis of Three Surgeons
+Taniguchi S &amp; Terai H — Osaka Metropolitan University Graduate School of Medicine, Osaka, Japan
+CUSUM analysis of the first 60 rTSA cases for three surgeons found that prior high-quality assistant experience was associated with earlier stabilization of operative time, blood loss, and perioperative complications during the early learning curve.
+PubMed
+Prediction of Acromial and Scapular Spine Fractures After Reverse Total Shoulder Arthroplasty using Machine Learning: A Retrospective Cohort Study
+Schneller T &amp; Scheibel M — Schulthess Clinic, Zürich, Switzerland
+In a registry of 2,256 rTSAs, a logistic-regression machine-learning model using implant design and patient factors predicted acromial/scapular spine fracture risk (4.1% incidence) with fair accuracy (AUROC 0.71); medialized-distalized implant design, cuff tear arthropathy, older age, and osteoporosis were the strongest predictors.
+PubMed
+Simultaneous versus Staged Bilateral Shoulder Replacement: A Matched Cohort Study
+Pina G &amp; Boileau P — ICR-Institut de Chirurgie Réparatrice, Clinique Kantys, Nice, France
+Matched-cohort study of 16 simultaneous vs. 32 staged bilateral shoulder arthroplasty patients found simultaneous surgery significantly shortened total length of stay (3.4 vs. 7.5 days) while achieving equivalent range of motion, satisfaction, and complication rates in carefully selected patients.
+PubMed
+The Humeral Bone Loss (HUMBL) Classification Identifies Patterns of Humeral Bone Loss Associated with Various Revision, Instability, and Humeral Loosening Rates in Primary and Revision Shoulder Arthroplasty
+Nieboer M &amp; Frankle M — Florida Orthopaedic Institute / Tampa General Hospital, Tampa, FL, USA
+In 1,083 shoulders undergoing primary or revision arthroplasty, the new HUMBL classification found segmental, ectatic, and discontinuity patterns of humeral bone loss were associated with progressively higher rates of revision, instability, and humeral loosening.
+PubMed
+Is There a Long-Term Benefit to use Patient-Specific Guides for Glenoid Implant Positioning in aTSA? A comparative study at minimum 10 years
+Gauci MO &amp; Giovannetti de Sanctis E — IULS-Institut Universitaire Locomoteur et Sports, Nice, France
+Comparative study of 47 anatomic TSAs at minimum 10-year follow-up found </description>
+<enclosure url="https://ericerwagner-max.github.io/tutor-podcast-a3c1fb/2026-07-04%20Tutor.m4a" length="4940953" type="audio/x-m4a"/>
+</item>
+<item>
+<title>Shoulder Literature — 2026-07-03</title>
+<itunes:author>Eric R. Wagner, MD, MSc</itunes:author>
+<pubDate>Fri, 03 Jul 2026 08:00:00 +0000</pubDate>
+<guid isPermaLink="false">2026-07-03 Tutor.m4a</guid>
+<itunes:duration>21:22</itunes:duration>
+<itunes:image href="https://ericerwagner-max.github.io/tutor-podcast-a3c1fb/cover.png"/>
+<description>Weekly Shoulder Surgery Literature Digest — 2026-07-03
+Pulled from PubMed, entry dates 2026-06-26 to 2026-07-03, across JSES, JSES International, AJSM, JAAOS, Arthroscopy, JBJS Am, and Bone &amp; Joint Journal. Letters, errata, author replies, editorials, and non-shoulder items (5 hip, 1 wrist, 2 elbow-only) were excluded. 20 articles included this week.
+---
+ Journal of Shoulder and Elbow Surgery (1)
+Factors Associated With Poor Outcomes For Female Patients Undergoing Total Shoulder Arthroplasty
+Wright MA &amp; Zmistowski B — Washington University in St Louis School of Medicine, St. Louis, MO, USA
+In a retrospective study of 409 women who underwent anatomic or reverse total shoulder arthroplasty, 35% failed to reach a patient-acceptable symptom state at 2 years, with smoking, prior ipsilateral shoulder surgery, and reverse (vs. anatomic) arthroplasty independently predicting worse outcomes.
+PubMed
+---
+ JSES International (13)
+High retear rates despite clinical improvement after arthroscopic partial repair for large to massive rotator cuff tears
+Baek CH &amp; Pham PT — Choray Hospital, Ho Chi Minh City, Vietnam
+Retrospective series of 142 patients undergoing arthroscopic partial repair for large-to-massive rotator cuff tears found significant functional gains at 26 months despite a 30.3% retear rate, with structural failure linked to worse outcomes.
+PubMed
+Video-enhanced informed consent improves patient comprehension in reverse total shoulder arthroplasty: a randomized controlled trial
+Scheidegger PD &amp; Bouaicha S — Balgrist University Hospital, University of Zürich, Zürich, Switzerland
+RCT of 60 rTSA patients found a 2-minute pre-consent educational video significantly improved comprehension scores versus verbal discussion alone (5.70/7 vs 4.67/7), with the greatest benefit in older, less-educated, and non-native-speaking patients.
+PubMed
+The subacromial index: a novel radiological parameter associated with rotator cuff tears
+Üner Ç &amp; Serbest S — Kırıkkale University Faculty of Medicine, Kırıkkale, Türkiye
+Retrospective imaging study of 132 shoulder MRIs proposes a new "subacromial index" measurement that remains associated with rotator cuff tears independent of age and acromial index, alongside established radiographic parameters.
+PubMed
+Long-term follow-up of functional electromyostimulation-augmented home exercise after primary reverse total shoulder arthroplasty
+Wittmann T &amp; Raiss P — OCM Clinic, Munich, Germany
+Follow-up of 10 patients from a prior RCT found that Constant Score and Subjective Shoulder Value gains achieved with a 6-week home electromyostimulation program after rTSA were maintained (and modestly improved) at a median 18 months, though the untreated control arm was not re-evaluated.
+PubMed
+Latarjet in lateral decubitus vs. beach-chair: effect on screw inclination and coracoid graft positioning
+Kalhor A — Mater Private Hospital, Brisbane, Australia
+Single-surgeon comparative series of 17 arthroscopic Latarjet procedures found the lazy later</description>
+<enclosure url="https://ericerwagner-max.github.io/tutor-podcast-a3c1fb/2026-07-03%20Tutor.m4a" length="5317652" type="audio/x-m4a"/>
+</item>
+</channel>
+</rss>
