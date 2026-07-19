@@ -13,6 +13,28 @@
 <itunes:summary>A weekly 20–30 minute two-host walk through the past week of shoulder-surgery literature — key studies, corresponding authors, and clinically relevant takeaways. Generated automatically from PubMed.</itunes:summary>
 <itunes:category text="Science"><itunes:category text="Medicine"/></itunes:category>
 <item>
+<title>Shoulder Literature — 2026-07-19</title>
+<itunes:author>Eric R. Wagner, MD, MSc</itunes:author>
+<pubDate>Sun, 19 Jul 2026 08:00:00 +0000</pubDate>
+<guid isPermaLink="false">2026-07-19 Tutor.m4a</guid>
+<itunes:duration>23:48</itunes:duration>
+<itunes:image href="https://ericerwagner-max.github.io/tutor-podcast-a3c1fb/cover.png"/>
+<description>Weekly Shoulder Surgery Literature Digest — 2026-07-19
+Pulled from PubMed across JSES, JSES International, AJSM, JAAOS, Arthroscopy, JBJS Am, and Bone &amp; Joint Journal. The last-7-days entry-date window (2026-07-12 to 2026-07-19) yielded 12 qualifying shoulder articles — above the ~5–8 article threshold for widening, so the standard 7-day window was kept. Letters, errata, author replies, and editorials were excluded (including a JSES letter/reply exchange on GLP-1 agonists and adhesive capsulitis, and an Arthroscopy editorial commentary on lower trapezius transfer). Non-shoulder items were also excluded: elbow-specific pieces (nerve MRI modeling, triceps-sparing vs. triceps-detaching total elbow arthroplasty, K-NOW unlinked total elbow arthroplasty kinematics), knee/cartilage pieces (arthroscopic MACI 10-year follow-up, medial meniscus root repair, ACL-related cartilage T2 relaxation), hip/pelvis pieces (custom pelvic implants in complex THA, triangular titanium implants for pelvic fixation), a foot/ankle tendon transfer piece, a Lisfranc fixation debate, an ASC contracts/operating-agreements practice-management piece, an advance-practice-provider performance study with no shoulder focus, an isolated pediatric meniscus repair study, and an AI-peer-review-process study with no clinical shoulder content. All 12 included articles this week come from JSES and JSES International; no qualifying shoulder-specific items were found in AJSM, JAAOS, Arthroscopy, JBJS Am, or Bone &amp; Joint Journal this window.
+---
+ Journal of Shoulder and Elbow Surgery (10)
+Development of Convolutional Neural Networks for Classification and Characterisation of Proximal Humerus Fractures on Computed Tomography
+Mennes SRJ &amp; Jaarsma RL — Department of Orthopaedics and Trauma Surgery, Flinders Medical Centre and Flinders University, Adelaide, Australia
+In 581 Australian and 122 Dutch patients with proximal humerus fracture CT scans, a 3D convolutional neural network (DenseNet) classified fracture patterns with 78.6% accuracy and matched or exceeded orthopedic surgeons for greater tuberosity displacement, varus malalignment, shaft translation, and articular involvement, though some subclass performance remained insufficient for clinical use.
+PubMed
+Effect of Combined Tendon Remnant Preservation and Bone Marrow Stimulation on Rotator Cuff Healing: A Propensity Score-Matched Study
+Scaini A &amp; Milano G — Department of Bone and Joint Surgery, Spedali Civili / University of Brescia, Brescia, Italy
+In 52 patients (26 per group) undergoing arthroscopic rotator cuff repair, adding tendon-footprint preservation plus small-diameter bone marrow stimulation ("nanofracture") holes significantly improved MRI-confirmed healing rate versus standard repair (80.8% vs. 53.8%, p=0.039) at mean 42-month follow-up, without a significant difference in clinical outcome scores.
+PubMed
+Multiplanar CT-based Characterization of Offset and Positional Change in Reverse Shoulder Arthroplasty and Validation of Radi</description>
+<enclosure url="https://ericerwagner-max.github.io/tutor-podcast-a3c1fb/2026-07-19%20Tutor.m4a" length="5931873" type="audio/x-m4a"/>
+</item>
+<item>
 <title>Shoulder Literature — 2026-07-11</title>
 <itunes:author>Eric R. Wagner, MD, MSc</itunes:author>
 <pubDate>Sat, 11 Jul 2026 08:00:00 +0000</pubDate>
