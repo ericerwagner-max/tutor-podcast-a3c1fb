@@ -13,6 +13,29 @@
 <itunes:summary>A weekly 20–30 minute two-host walk through the past week of shoulder-surgery literature — key studies, corresponding authors, and clinically relevant takeaways. Generated automatically from PubMed.</itunes:summary>
 <itunes:category text="Science"><itunes:category text="Medicine"/></itunes:category>
 <item>
+<title>Shoulder Literature — 2026-08-08</title>
+<itunes:author>Eric R. Wagner, MD, MSc</itunes:author>
+<pubDate>Sat, 08 Aug 2026 08:00:00 +0000</pubDate>
+<guid isPermaLink="false">2026-08-08 Tutor.m4a</guid>
+<itunes:duration>29:57</itunes:duration>
+<itunes:image href="https://ericerwagner-max.github.io/tutor-podcast-a3c1fb/cover.png"/>
+<description>Weekly Shoulder Surgery Literature Digest — 2026-08-08
+Pulled from PubMed across JSES, JSES International, AJSM, JAAOS, Arthroscopy, JBJS Am, and Bone &amp; Joint Journal over the last 7 days (2026-08-01 to 2026-08-08). A quieter week than the last — 13 shoulder-specific clinical and translational articles, concentrated almost entirely in the JSES family (7 JSES, 4 JSES International), and headlined by a Washington University randomized controlled trial on subscapularis repair in reverse arthroplasty. AJSM, Arthroscopy, and the Bone &amp; Joint Journal each published no qualifying shoulder articles this week — their output was knee, hip, spine, trauma, and arthroplasty of the lower limb. Letters, errata, author replies, editorials, and editorial commentaries were excluded, as were elbow-only items and articles already covered in earlier digests.
+Search note: the 7-day entry-date window was cross-checked against a create-date sweep back to 2026-07-25 to catch back-dated ahead-of-print records. That cross-check surfaced seven additional records, all of which were correctly excludable — two editorial commentaries, a JBJS commentary on Werthel's posterior acromial morphology paper (the primary article itself was covered in the 2026-07-26 digest), the orthobiologics consensus statement, two elbow-only papers, a hip lexicon, and the AJSM nerve-block network meta-analysis already digested on 2026-07-26.
+---
+ Journal of the American Academy of Orthopaedic Surgeons (1)
+Cost-Effectiveness of Rotator Cuff Repair With Concomitant Subacromial Decompression at Mid-Term Follow-Up: A Systematic Review and Economic Analysis
+Saad Berreta R &amp; Srikumaran U — Department of Orthopedics, Johns Hopkins University School of Medicine, Baltimore, MD, USA
+A Level-II economic and decision-analysis study pairing a PRISMA systematic review of Level I–II trials with at least 5-year follow-up and a decision-tree cost-utility model comparing isolated rotator cuff repair against repair plus subacromial decompression over a 5-year horizon: adding decompression came out cheaper ($33,448 vs $34,593) and marginally more effective (1.465 vs 1.454 QALYs), making it the dominant strategy with an incremental net monetary benefit of $1,695 and favored in 99.28% of 1,000 Monte Carlo simulations — driven almost entirely by a reduction in revision rates, and robust to burr costs up to $1,721 and up to 43.6 extra minutes of operative time.
+PubMed
+---
+ Journal of Bone and Joint Surgery, American (1)
+The Impact of Lesser Tuberosity Osteotomy Repair After Reverse Total Shoulder Arthroplasty: A Randomized Controlled Trial
+Aleem AW &amp; Keener JD — Department of Orthopaedic Surgery, Washington University in St. Louis, St. Louis, MO, USA
+The week's most definitive paper: a patient-blinded, single-institution randomized controlled trial (Therapeutic Level I) of 85 shoulders in 81 patients with a subscapularis intact enough to reattach, randomized to repair or non-repair of the lesser tuberosity osteotomy fragme</description>
+<enclosure url="https://ericerwagner-max.github.io/tutor-podcast-a3c1fb/2026-08-08%20Tutor.m4a" length="7461710" type="audio/x-m4a"/>
+</item>
+<item>
 <title>Shoulder Literature — 2026-08-01</title>
 <itunes:author>Eric R. Wagner, MD, MSc</itunes:author>
 <pubDate>Sat, 01 Aug 2026 08:00:00 +0000</pubDate>
