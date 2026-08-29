@@ -13,6 +13,23 @@
 <itunes:summary>A weekly 20–30 minute two-host walk through the past week of shoulder-surgery literature — key studies, corresponding authors, and clinically relevant takeaways. Generated automatically from PubMed.</itunes:summary>
 <itunes:category text="Science"><itunes:category text="Medicine"/></itunes:category>
 <item>
+<title>Shoulder Literature — 2026-08-29</title>
+<itunes:author>Eric R. Wagner, MD, MSc</itunes:author>
+<pubDate>Sat, 29 Aug 2026 08:00:00 +0000</pubDate>
+<guid isPermaLink="false">2026-08-29 Tutor.m4a</guid>
+<itunes:duration>31:02</itunes:duration>
+<itunes:image href="https://ericerwagner-max.github.io/tutor-podcast-a3c1fb/cover.png"/>
+<description>Weekly Shoulder Surgery Literature Digest — 2026-08-29
+Pulled from PubMed across JSES, JSES International, AJSM, JAAOS, Arthroscopy, JBJS Am, and Bone &amp; Joint Journal over the last 7 days (2026-08-22 to 2026-08-29). A JSES-family week — 12 shoulder-specific clinical and translational articles, ten of them from JSES and JSES International. The headline pieces are a multicenter French Society of Shoulder and Elbow (SFEC) series of 209 chronic acromioclavicular reconstructions asking whether horizontal AC stabilization is worth adding, a 40,430-per-group TriNetX analysis linking hyperlipidemia to reoperation after arthroscopic rotator cuff repair (with the uncomfortable finding that statins did not help), a data-driven set of preoperative hemoglobin thresholds for total shoulder arthroplasty, and a Korean comparison of pectoralis major transfer versus subscapularis repair in reverse arthroplasty in which the transfer outperformed the repair on internal-rotation function. Two negative-but-useful diagnostic and implant papers round out the week: 16S rRNA PCR had zero true positives against ICM-confirmed shoulder periprosthetic joint infection, and short humeral stems were twice as likely to end up coronally malaligned as standard-length stems. AJSM, JAAOS, JBJS Am, and the Bone &amp; Joint Journal each published no qualifying shoulder articles this week. Letters, errata, author replies, editorials, and editorial commentaries were excluded, as were elbow-only, hip, knee, spine, and wrist items.
+Search note: the 7-day entry-date window was cross-checked two ways — a create-date (crdt) sweep of all seven journals back to 2026-08-20, and a publication-date (dp) sweep with shoulder-girdle keywords — then diffed against every PMID covered in prior digests. Neither cross-check surfaced an additional includable shoulder article inside this week's window. The uncovered records they returned were all correctly excludable: a JAAOS radial head fracture technique series, a JBJS first-metatarsophalangeal measurement study, an AJSM revision-ACL analysis, an Arthroscopy all-inside meniscus device failure analysis, a JAAOS diabetes/HbA1c complication study, and four Arthroscopy editorial commentaries (mooring technique, tissue printing, hip labrum, dynamic anterior stabilization) plus the Bankart GLAD letter-and-reply exchange.
+---
+ Journal of Shoulder and Elbow Surgery (5)
+Hyperlipidemia Is Associated With an Increased Risk of Secondary Procedures in Patients Undergoing Arthroscopic Rotator Cuff Repair
+Prabhavalkar ON &amp; Mannava S (corresponding author Prabhavalkar ON) — Department of Orthopedics, University of Rochester Medical Center, Rochester, NY, USA
+The largest and most clinically actionable paper of the week: a Level-III retrospective cohort using the TriNetX federated network of over 120 million de-identified records, asking whether hyperlipidemia — long suspected of impairing tendon-to-bone healing — actually translates into more reoperations after arthroscopic r</description>
+<enclosure url="https://ericerwagner-max.github.io/tutor-podcast-a3c1fb/2026-08-29%20Tutor.m4a" length="7725858" type="audio/x-m4a"/>
+</item>
+<item>
 <title>Shoulder Literature — 2026-08-22</title>
 <itunes:author>Eric R. Wagner, MD, MSc</itunes:author>
 <pubDate>Sat, 22 Aug 2026 08:00:00 +0000</pubDate>
