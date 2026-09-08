@@ -13,6 +13,20 @@
 <itunes:summary>A weekly 20–30 minute two-host walk through the past week of shoulder-surgery literature — key studies, corresponding authors, and clinically relevant takeaways. Generated automatically from PubMed.</itunes:summary>
 <itunes:category text="Science"><itunes:category text="Medicine"/></itunes:category>
 <item>
+<title>Shoulder Literature — 2026-09-07</title>
+<itunes:author>Eric R. Wagner, MD, MSc</itunes:author>
+<pubDate>Mon, 07 Sep 2026 08:00:00 +0000</pubDate>
+<guid isPermaLink="false">2026-09-07 Tutor.m4a</guid>
+<itunes:duration>36:32</itunes:duration>
+<itunes:image href="https://ericerwagner-max.github.io/tutor-podcast-a3c1fb/cover.png"/>
+<description>Weekly Shoulder Surgery Literature Digest — 2026-09-07
+Pulled from PubMed across JSES, JSES International, AJSM, JAAOS, Arthroscopy, JBJS Am, and Bone &amp; Joint Journal. This digest covers a 10-day window (2026-08-29 to 2026-09-07) rather than the usual 7 days, because the scheduled Saturday 2026-09-05 run did not execute — the window was extended back to the day after the last digest so that no article fell through the gap. 18 shoulder-specific clinical and translational articles qualified, the largest haul in several weeks, and unusually Arthroscopy (8) outproduced JSES (6).
+The week's center of gravity is the rotator cuff, and specifically the question of what actually drives healing. A rat model from Xi'an defines a repair-tension "sweet zone" of 0.10–0.12 N/mm² with a bell-shaped relationship between tension and enthesis quality — the first quantitative answer to a question every surgeon settles by feel. A Chinese cohort shows early (&lt;3 weeks) repair of traumatic massive tears beats delayed repair by 6.3 ASES points independent of confounders, while the retear rate stays stubbornly the same. A 5-year MRI series from Korea finds that superior capsular reconstruction grafts thin progressively even when they look intact, and that MR arthrography uncovers retear in 80% of symptomatic patients whom conventional MRI called healed. A systematic review out of Rush then decouples the outcome from the radiograph entirely: PROMs and forward flexion improve after cuff repair, SCR, and tendon transfer regardless of whether the acromiohumeral interval increases at all.
+On the arthroplasty side, two negative diagnostic papers land in the same issue and point the same direction: arthroscopic pre-revision tissue biopsy had 27–30% sensitivity for periprosthetic joint infection, and three patients with entirely negative biopsies grew ≥2 unexpected positive cultures at revision — a direct sequel to last week's 16S rRNA PCR paper from the same Wisconsin group. A meta-analysis of 2,639 patients finds single-shot interscalene block matches continuous catheters on 24-hour pain with a fourfold lower complication rate and a fraction of the cost. A Medicare analysis of 533,569 shoulder arthroplasties documents a 3.2-fold volume increase with surgeons still 88.9% urban and revision arthroplasty performed essentially nowhere but cities. And a 476,620-procedure UK linked-data study puts shoulder arthroplasty VTE at 1.0% — the lowest of the three major joints — with a 9% decline after the 2018 NICE guidance that hip and knee did not show.
+Rounding out the week: Hill-Sachs size tracks with dislocation-versus-subluxation rather than chronicity; distal radius allograft morphology varies enough by donor age and sex to matter for glenoid reconstruction; a deep learning model reads intraoperative arthroscopic images to predict retear; lag screws and wire cerclage beat suture-tape for allograft strut fixation; a rabbit model validates a new biceps tenodesis stitch; patient- and ph</description>
+<enclosure url="https://ericerwagner-max.github.io/tutor-podcast-a3c1fb/2026-09-07%20Tutor.m4a" length="9090127" type="audio/x-m4a"/>
+</item>
+<item>
 <title>Shoulder Literature — 2026-08-29</title>
 <itunes:author>Eric R. Wagner, MD, MSc</itunes:author>
 <pubDate>Sat, 29 Aug 2026 08:00:00 +0000</pubDate>
