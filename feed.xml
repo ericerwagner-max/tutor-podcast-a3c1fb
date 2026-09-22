@@ -13,6 +13,21 @@
 <itunes:summary>A weekly 20–30 minute two-host walk through the past week of shoulder-surgery literature — key studies, corresponding authors, and clinically relevant takeaways. Generated automatically from PubMed.</itunes:summary>
 <itunes:category text="Science"><itunes:category text="Medicine"/></itunes:category>
 <item>
+<title>Shoulder Literature — 2026-09-22</title>
+<itunes:author>Eric R. Wagner, MD, MSc</itunes:author>
+<pubDate>Tue, 22 Sep 2026 08:00:00 +0000</pubDate>
+<guid isPermaLink="false">2026-09-22 Tutor.m4a</guid>
+<itunes:duration>50:01</itunes:duration>
+<itunes:image href="https://ericerwagner-max.github.io/tutor-podcast-a3c1fb/cover.png"/>
+<description>Weekly Shoulder Surgery Literature Digest — 2026-09-22
+Pulled from PubMed across JSES, JSES International, AJSM, JAAOS, Arthroscopy, JBJS Am, and Bone &amp; Joint Journal. This digest covers 2026-09-12 to 2026-09-22. The window was set to close the gap since the 2026-09-13 digest, and it is a heavy one: 24 shoulder-specific clinical and translational articles qualified — Arthroscopy (8), JSES International (7), JSES (6), JBJS Am (2), and AJSM (1).
+The single most practice-changing paper is a Level I randomized controlled trial from Geneva and Lausanne. Eighty-six patients undergoing an open Latarjet were randomized to immediate self-rehabilitation with or without three weeks of sling immobilization. At six months the two groups were indistinguishable on every outcome, including graft union and osteolysis — but at two years the no-sling group was 12.5 Rowe points and 7.9 SANE-instability points ahead, was half again as likely to reach a patient acceptable symptom state, and the only two recurrent dislocations in the trial happened in the sling group. The routine post-Latarjet sling now has to justify itself.
+Running a close second in practical consequence is a Kaiser Permanente registry analysis in the same journal. Across 13,901 primary shoulder arthroplasties, anatomic TSA performed with an Exactech Equinoxe device carried a 1.87-fold adjusted revision hazard versus other devices — a signal that persisted (HR 1.91) when restricted to the implants packaged in the non-conforming bags that triggered the 2024 recall. Notably, no such difference appeared in elective reverse TSA. Anyone carrying an Equinoxe anatomic in their practice population now has a number to counsel with.
+The rotator cuff dominates the rest of the week. The Duke-led international consensus effort — 97 surgeons from 15 countries — lands in three simultaneous Arthroscopy papers covering diagnosis and posterosuperior repair (Part I), subscapularis, augmentation and tendon transfer (Part II), and reverse arthroplasty, revision and rehabilitation (Part III). The most instructive results are the failures to agree: graft augmentation and superior capsular reconstruction produced 16 statements with no consensus at all in Part II, and Part III found no agreement on any surveillance protocol. On the technical side, a Sydney prospective cohort of 1,000 consecutive undersurface knotless repairs of partial-thickness tears reports a 1.4% retear rate with a visible learning curve flattening after roughly 200 cases; a Seoul deep-learning volumetric study shows that supraspinatus muscle volume recovery at one year tracks tendon healing and independently predicts lower retear odds (OR 0.49 per 10% volume gain); and a Strasbourg series finds that low pain at one month after cuff repair — predicted by an intact subscapularis, no preoperative analgesics, and lower baseline pain — marks a patient whose whole first year runs better by more than the MCID.
+Instability is the other busy theme. A Dallas cohor</description>
+<enclosure url="https://ericerwagner-max.github.io/tutor-podcast-a3c1fb/2026-09-22%20Tutor.m4a" length="12461907" type="audio/x-m4a"/>
+</item>
+<item>
 <title>Shoulder Literature — 2026-09-13</title>
 <itunes:author>Eric R. Wagner, MD, MSc</itunes:author>
 <pubDate>Sun, 13 Sep 2026 08:00:00 +0000</pubDate>
@@ -184,34 +199,6 @@ Multiplanar CT-based Characterization of Offset and Positional Change in Reverse
 Vervaecke AJ &amp; Werthel JD — Hôpital Ambroise-Paré, Boulogne-Billancourt, France
 In 30 prospectively studied reverse total shoulder arthroplasties (Stryker Reverse II with BIO-RSA or Perform augmented baseplate)</description>
 <enclosure url="https://ericerwagner-max.github.io/tutor-podcast-a3c1fb/2026-07-18%20Tutor.m4a" length="6885282" type="audio/x-m4a"/>
-</item>
-<item>
-<title>Shoulder Literature — 2026-07-11</title>
-<itunes:author>Eric R. Wagner, MD, MSc</itunes:author>
-<pubDate>Sat, 11 Jul 2026 08:00:00 +0000</pubDate>
-<guid isPermaLink="false">2026-07-11 Tutor.m4a</guid>
-<itunes:duration>23:07</itunes:duration>
-<itunes:image href="https://ericerwagner-max.github.io/tutor-podcast-a3c1fb/cover.png"/>
-<description>Weekly Shoulder Surgery Literature Digest — 2026-07-11
-Pulled from PubMed across JSES, JSES International, AJSM, JAAOS, Arthroscopy, JBJS Am, and Bone &amp; Joint Journal. This is a sweeper catch-up run — the normal Saturday pipeline did not execute this week, so this digest also backfills the gap. The last-7-days entry-date window (2026-07-04 to 2026-07-11) yielded only 2 genuinely new, non-duplicate shoulder articles, so per program rules the window was widened progressively to 14 days, then to 30 days (2026-06-11 to 2026-07-11), which surfaced a substantial backlog of shoulder-specific content — mostly in JSES/JSES International — not covered by the prior two (narrower-window) digests. Letters, errata, author replies, editorials, and non-shoulder items (elbow-only, hip, knee, wrist/hand, spine, general ortho-practice pieces) were excluded throughout. 27 articles included this week.
----
- Journal of Shoulder and Elbow Surgery (11)
-Influence of Age-Related Bone Density Changes on Primary Stability in Stemless Shoulder Arthroplasty: A Multi-Implant Finite Element Study
-Líbano Monteiro H &amp; Folgado J — IDMEC, Instituto Superior Técnico, Universidade de Lisboa, Lisbon, Portugal
-Finite-element modeling of five stemless anatomic implant designs found that age-related bone-density decline increased micromotion at the bone-implant interface, but several designs (Global Icon, Inhance) remained stable regardless of osseointegration threshold, suggesting age alone may not contraindicate stemless TSA.
-PubMed
-Evaluation of New Normal After Shoulder Arthroplasty: Comparison of Anatomic vs. Reverse Total Shoulder Arthroplasty
-Beleckas CM &amp; Levy JC — Levy Shoulder to Hand Center, Paley Orthopedic and Spine Institute, Boca Raton, FL, USA
-Among 849 aTSA and 745 rTSA patients with ≥2-year follow-up, 40% of aTSA vs. 26% of rTSA patients reached a "new normal" (SANE ≥95), with aTSA patients significantly outperforming rTSA in higher-demand functions, work/sport return, and range of motion.
-PubMed
-Long-Term Outcomes of Reverse Shoulder Arthroplasty Versus Nonoperative Treatment for 3- or 4-Part Proximal Humerus Fractures in Elderly Patients: Results From a Prior Randomized Clinical Trial
-Lopiz Y &amp; Marco F — Clínico San Carlos Hospital / Complutense University, Madrid, Spain
-Long-term (mean 7.4–7.6 year) follow-up of the first RCT comparing RSA vs. nonoperative treatment for displaced 3-/4-part proximal humerus fractures in patients ≥80 years found RSA maintained better Constant scores over time as nonoperative outcomes deteriorated.
-PubMed
-Stemless Anatomic and Reverse Shoulder Arthroplasty in Patients Under 55 Years of Age with Primary Glenohumeral Osteoarthritis: An Analysis of the Australian Orthopedic Association National Joint Replacement Registry at 5 Years
-Jomaa M &amp; Cutbush K — Queensland Unit for Advanced Shoulder Research, Brisbane, Australia
-Registry analysis of 2,111 arthroplasties in patients under 55 found 6-year revision rates of 7.0% for stemless aTSA and 6</description>
-<enclosure url="https://ericerwagner-max.github.io/tutor-podcast-a3c1fb/2026-07-11%20Tutor.m4a" length="5763752" type="audio/x-m4a"/>
 </item>
 </channel>
 </rss>
