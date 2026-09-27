@@ -13,6 +13,21 @@
 <itunes:summary>A weekly 20–30 minute two-host walk through the past week of shoulder-surgery literature — key studies, corresponding authors, and clinically relevant takeaways. Generated automatically from PubMed.</itunes:summary>
 <itunes:category text="Science"><itunes:category text="Medicine"/></itunes:category>
 <item>
+<title>Shoulder Literature — 2026-09-26</title>
+<itunes:author>Eric R. Wagner, MD, MSc</itunes:author>
+<pubDate>Sat, 26 Sep 2026 08:00:00 +0000</pubDate>
+<guid isPermaLink="false">2026-09-26 Tutor.m4a</guid>
+<itunes:duration>30:00</itunes:duration>
+<itunes:image href="https://ericerwagner-max.github.io/tutor-podcast-a3c1fb/cover.png"/>
+<description>Weekly Shoulder Surgery Literature Digest — 2026-09-26
+Pulled from PubMed across JSES, JSES International, AJSM, JAAOS, Arthroscopy, JBJS Am, and Bone &amp; Joint Journal. This digest covers 2026-09-19 to 2026-09-26. It is a deliberately short one: only 7 shoulder-specific clinical and translational articles qualified — JSES International (4), Arthroscopy (2), and JBJS Am (1). The reason is straightforward and worth stating up front: the 2026-09-22 digest ran only four days ago and swept an unusually heavy 24-article window, so most of what the seven journals posted this week had already been covered. Per protocol the window was widened to 14 days when the 7-day yield fell below 8, and the widening added zero further shoulder papers — every 14-day extra was either already covered on 2026-09-22 or was a knee/hip/foot item or an editorial commentary. This is a genuinely quiet week, not a missed sweep.
+What did arrive is heavily weighted toward reconstruction of the difficult shoulder — the malunited proximal humerus, the malunited scapula, the failed posterior stabilization — plus two technology papers on navigation and kinematics and two biomechanics papers.
+The most clinically sobering paper of the week is a Walter Reed natural-history series on traumatic posterior glenohumeral dislocation in young, high-demand patients. Thirty-three shoulders in a predominantly active-duty military cohort were followed after a confirmed posterior dislocation or subluxation event, and the failure rates are grim in both arms: 61% failed nonoperative management (usually by recurrent dislocation) and 53% failed after surgery, most often requiring revision. Nearly half the operative cohort ended up on permanent duty restriction or never returned to their occupation. Posterior instability in this population is not the benign counterpart of anterior instability, and these numbers belong in the preoperative conversation.
+The most immediately useful technical paper is a Groningen–Adelaide cadaveric feasibility study of 3D patient-specific cutting and reduction guides for corrective osteotomy of malunited proximal humerus fractures, including a novel humeral-head–tuberosity separation technique for severe malunions with disrupted anatomy. Seven planned osteotomies landed within a median 5.2° of planned rotation and 3.4° of planned valgus — under 10° deviation across the board. This is a feasibility study on Thiel-embalmed specimens, not a clinical series, but it puts a technically forbidding operation on a planned footing.
+The largest dataset of the week is a navigation study out of NYU using 19,054 navigated total shoulder arthroplasties across 871 surgeons on the Advita GPS platform, asking how faithfully the preoperative plan is actually executed in augmented glenoids. The answer is reassuring — version deviations stayed near 0.3° and entry-point deviations near 1 mm even with retroversion ≥15° or inclination ≥10°, with statistically significant subgroup differences that a</description>
+<enclosure url="https://ericerwagner-max.github.io/tutor-podcast-a3c1fb/2026-09-26%20Tutor.m4a" length="7472227" type="audio/x-m4a"/>
+</item>
+<item>
 <title>Shoulder Literature — 2026-09-22</title>
 <itunes:author>Eric R. Wagner, MD, MSc</itunes:author>
 <pubDate>Tue, 22 Sep 2026 08:00:00 +0000</pubDate>
@@ -175,30 +190,6 @@ Comparable Midterm Outcomes for Ultrasound-Guided Needling Versus High-Energy Sh
 van Noort DM &amp; van Noort A — Department of Orthopaedic Surgery, Spaarne Gasthuis, Hoofddorp, Netherlands
 Five-year follow-up of an RCT in 82 patients (67, 82%, reassessed) with symptomatic rotator cuff calcific tendinitis (5 mm, Gärtner I–II) that had failed nonoperative care including a subacromial steroid injection, randomized to four sessions of high-energy extracorporeal shockwave therapy (ESWT) or a single ultrasound-guided needling/lavage (UGN): both arms reached excellent midterm Constant-Murley scores (94.4 vs 93.3, p=0.67) with 94% meeting the MCID and no recurrence of treated deposits, though additional trea</description>
 <enclosure url="https://ericerwagner-max.github.io/tutor-podcast-a3c1fb/2026-07-26%20Tutor.m4a" length="5512540" type="audio/x-m4a"/>
-</item>
-<item>
-<title>Shoulder Literature — 2026-07-18</title>
-<itunes:author>Eric R. Wagner, MD, MSc</itunes:author>
-<pubDate>Sat, 18 Jul 2026 08:00:00 +0000</pubDate>
-<guid isPermaLink="false">2026-07-18 Tutor.m4a</guid>
-<itunes:duration>27:38</itunes:duration>
-<itunes:image href="https://ericerwagner-max.github.io/tutor-podcast-a3c1fb/cover.png"/>
-<description>Weekly Shoulder Surgery Literature Digest — 2026-07-18
-Pulled from PubMed across JSES, JSES International, AJSM, JAAOS, Arthroscopy, JBJS Am, and Bone &amp; Joint Journal. This is a sweeper catch-up run — the normal Saturday pipeline died partway earlier today, having already produced a full 12-article, JSES/JSES-International-only pull for the standard 7-day window (2026-07-12 to 2026-07-19) but under an incorrect date label. This digest corrects that label to the proper target date (2026-07-18) and, per program rules for a sweeper, re-checked a widened window (out to 30 days, 2026-06-18–2026-07-18) for anything additional — which surfaced 2 further genuinely new, non-duplicate shoulder-specific articles in AJSM and Arthroscopy that the narrower run had missed. Letters, errata, author replies, and editorials were excluded throughout (including a JSES letter/reply exchange on GLP-1 agonists and adhesive capsulitis, a JSES randomized trial on shoulder immobilization that PubMed tagged as a "Letter" with no abstract, and an Arthroscopy editorial commentary on lower trapezius transfer), as were non-shoulder items (elbow, hip, knee, foot/ankle, spine, and general orthopaedic-practice/innovation content — these journals cover far more than shoulder). 14 articles included this week.
----
- Journal of Shoulder and Elbow Surgery (10)
-Development of Convolutional Neural Networks for Classification and Characterisation of Proximal Humerus Fractures on Computed Tomography
-Mennes SRJ &amp; Jaarsma RL — Department of Orthopaedics and Trauma Surgery, Flinders Medical Centre and Flinders University, Adelaide, Australia
-In 581 Australian and 122 Dutch patients with proximal humerus fracture CT scans, a 3D convolutional neural network (DenseNet) classified fracture patterns with 78.6% accuracy and matched or exceeded orthopedic surgeons for greater tuberosity displacement, varus malalignment, shaft translation, and articular involvement, though some subclass performance remained insufficient for clinical use.
-PubMed
-Effect of Combined Tendon Remnant Preservation and Bone Marrow Stimulation on Rotator Cuff Healing: A Propensity Score-Matched Study
-Scaini A &amp; Milano G — Department of Bone and Joint Surgery, Spedali Civili / University of Brescia, Brescia, Italy
-In 52 patients (26 per group) undergoing arthroscopic rotator cuff repair, adding tendon-footprint preservation plus small-diameter bone marrow stimulation ("nanofracture") holes significantly improved MRI-confirmed healing rate versus standard repair (80.8% vs. 53.8%, p=0.039) at mean 42-month follow-up, without a significant difference in clinical outcome scores.
-PubMed
-Multiplanar CT-based Characterization of Offset and Positional Change in Reverse Shoulder Arthroplasty and Validation of Radiographic Metrics
-Vervaecke AJ &amp; Werthel JD — Hôpital Ambroise-Paré, Boulogne-Billancourt, France
-In 30 prospectively studied reverse total shoulder arthroplasties (Stryker Reverse II with BIO-RSA or Perform augmented baseplate)</description>
-<enclosure url="https://ericerwagner-max.github.io/tutor-podcast-a3c1fb/2026-07-18%20Tutor.m4a" length="6885282" type="audio/x-m4a"/>
 </item>
 </channel>
 </rss>
