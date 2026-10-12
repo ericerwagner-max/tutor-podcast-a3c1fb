@@ -13,6 +13,21 @@
 <itunes:summary>A weekly 20–30 minute two-host walk through the past week of shoulder-surgery literature — key studies, corresponding authors, and clinically relevant takeaways. Generated automatically from PubMed.</itunes:summary>
 <itunes:category text="Science"><itunes:category text="Medicine"/></itunes:category>
 <item>
+<title>Shoulder Literature — 2026-10-10</title>
+<itunes:author>Eric R. Wagner, MD, MSc</itunes:author>
+<pubDate>Sat, 10 Oct 2026 08:00:00 +0000</pubDate>
+<guid isPermaLink="false">2026-10-10 Tutor.m4a</guid>
+<itunes:duration>32:57</itunes:duration>
+<itunes:image href="https://ericerwagner-max.github.io/tutor-podcast-a3c1fb/cover.png"/>
+<description>Weekly Shoulder Surgery Literature Digest — 2026-10-10
+Pulled from PubMed across JSES, JSES International, AJSM, JAAOS, Arthroscopy, JBJS Am, and Bone &amp; Joint Journal. This digest covers 2026-10-02 to 2026-10-10. A much fuller week after two quiet ones: 18 shoulder-specific clinical and translational articles qualified — JSES (10), JSES International (2), Arthroscopy (4), and JBJS Am (2). The 7-day yield cleared the threshold of 8, so the window was not widened.
+The headline paper is the 2025 International Consensus Meeting definition of shoulder periprosthetic joint infection, led by the Rothman Institute: organism virulence is gone, purulence and a sinus tract remain the only "definite" criteria, and the minor criteria are now statistically weighted from the ASES multicenter PJI dataset into a points-based likelihood scale. Infection runs right through this week — an ASES survey shows nearly 9 in 10 shoulder surgeons still recommend dental antibiotic prophylaxis after TSA, an Osaka series links a low Geriatric Nutritional Risk Index to a roughly sevenfold higher odds of PJI after reverse arthroplasty, and a Duke series of convertible-stem revisions finds unexpected positive cultures in about 1 in 7 "unlikely-PJI" cases, yet only 3% reoperated for infection.
+In arthroplasty, a 791-shoulder Florida Orthopaedic Institute cohort sets long-term benchmarks for anatomic TSA: 96% survivorship at 10 years, 94% at 15, and anchor-based 10-year PASS, MCID, and SCB thresholds for the ASES score. In the cuff, an Arthroscopy meta-analysis of 9 RCTs finds biologic graft augmentation cuts retear risk by roughly two-thirds; a Yeosu Baek Hospital propensity-matched study finds pseudoparesis does not worsen outcomes after anterior latissimus–teres major transfer; and there are machine-learning, AI-imaging, early-rehabilitation, and PROMIS-adoption papers. Instability brings a 10-year military remplissage series, a 41-patient distal clavicle autograft bone-block series, a Turkish study showing remplissage external-rotation loss doesn't cost patients clinically meaningful outcomes, an adolescent Latarjet systematic review, and a 3D statistical-shape study placing the coracoid more superior in anterior instability.
+AJSM, JAAOS, and Bone &amp; Joint Journal published no new qualifying shoulder articles in this window. Letters, errata, author replies, editorials, editorial commentaries, and invited commentaries were excluded, as were elbow-only items (a JSES PRP-for-lateral-epicondylitis trial, an elbow arthrodesis review, a distal UCL cadaveric study, a radial head arthroplasty population study, an Essex-Lopresti systematic review, an elbow-RCT loss-to-follow-up review, and a JSES International elbow-ligament graft anatomy study), plus hip, knee, foot/ankle, spine, tumor, and wrist items.
+Search note: the window was swept by entry date (edat) and create date (crdt) across all seven journals with no keyword filter and unioned (93 records, none previously covered), and re-s</description>
+<enclosure url="https://ericerwagner-max.github.io/tutor-podcast-a3c1fb/2026-10-10%20Tutor.m4a" length="8206928" type="audio/x-m4a"/>
+</item>
+<item>
 <title>Shoulder Literature — 2026-10-03</title>
 <itunes:author>Eric R. Wagner, MD, MSc</itunes:author>
 <pubDate>Sat, 03 Oct 2026 08:00:00 +0000</pubDate>
@@ -160,52 +175,6 @@ The Impact of Lesser Tuberosity Osteotomy Repair After Reverse Total Shoulder Ar
 Aleem AW &amp; Keener JD — Department of Orthopaedic Surgery, Washington University in St. Louis, St. Louis, MO, USA
 The week's most definitive paper: a patient-blinded, single-institution randomized controlled trial (Therapeutic Level I) of 85 shoulders in 81 patients with a subscapularis intact enough to reattach, randomized to repair or non-repair of the lesser tuberosity osteotomy fragme</description>
 <enclosure url="https://ericerwagner-max.github.io/tutor-podcast-a3c1fb/2026-08-08%20Tutor.m4a" length="7538189" type="audio/x-m4a"/>
-</item>
-<item>
-<title>Shoulder Literature — 2026-08-01</title>
-<itunes:author>Eric R. Wagner, MD, MSc</itunes:author>
-<pubDate>Sat, 01 Aug 2026 08:00:00 +0000</pubDate>
-<guid isPermaLink="false">2026-08-01 Tutor.m4a</guid>
-<itunes:duration>38:16</itunes:duration>
-<itunes:image href="https://ericerwagner-max.github.io/tutor-podcast-a3c1fb/cover.png"/>
-<description>Weekly Shoulder Surgery Literature Digest — 2026-08-01
-Pulled from PubMed across JSES, JSES International, AJSM, JAAOS, Arthroscopy, JBJS Am, and Bone &amp; Joint Journal over the last 7 days (2026-07-25 to 2026-08-01). A strong week — 21 shoulder-specific clinical and translational articles, led by an eleven-article JSES batch. Letters, errata, author replies, and editorials/editorial commentaries were excluded, as were elbow-only and non-shoulder items and one AJSM article (the nerve-block network meta-analysis) already covered in last week's digest.
----
- American Journal of Sports Medicine (3)
-Suprascapular Nerve Release Improves the Histological Healing Morphology and Biomechanical Strength of the Rotator Cuff in a Rat Chronic Massive Rotator Cuff Tear Model
-Zhang W &amp; Sun Y — Department of Hand Surgery, Affiliated Hospital of Nantong University, Nantong, China
-A controlled laboratory study in a rat chronic massive rotator cuff tear model (bilateral supraspinatus/infraspinatus transection, repaired at 4 weeks) asking whether suprascapular nerve entrapment is an independent barrier to tendon healing: neurofilament-200 staining showed entrapment in 7 of 10 shoulders, and adding concurrent nerve release to repair (n=14 rats per group) produced significantly higher maximum load at 8 weeks and better histologic healing scores at both 4 and 8 weeks — preclinical support for considering release at the time of massive cuff repair.
-PubMed
-Mid- to Long-term Outcomes of Coracoclavicular Ligament Reconstruction for Acromioclavicular Joint Dislocations: A Systematic Review of Studies With Minimum 5-Year Follow-up
-Boufadel P &amp; Li X — Department of Orthopaedic Surgery, Boston University School of Medicine, Boston, MA, USA
-A Level-IV systematic review of 16 studies (326 patients, 327 shoulders; weighted mean age 37 years, 85% men, mean follow-up 98 months) of open and arthroscopic coracoclavicular ligament reconstruction for Rockwood III–V acromioclavicular dislocations: functional results were excellent regardless of approach or technique (mean Constant 93.1, ASES 93.1, VAS 0.6), with 93% satisfaction and 88% return to preinjury sport, no loss of coracoclavicular distance over time, and overall complication, recurrence, and reoperation rates of 11.9%, 5.2%, and 6.1% — though arthroscopic procedures and suture-button/synthetic suspensory constructs carried higher recurrence and implant-related complication rates.
-PubMed
-Platelet-Derived Growth Factor Synergistic Enhancement of Bone Marrow Stimulation for Enhanced Labral Repair and Functional Recovery in a Rat Bankart Model
-Mendiaz F &amp; Tang L — Department of Bioengineering, University of Texas at Arlington, Arlington, TX, USA
-A controlled laboratory study in 50 rats with a surgically created Bankart glenoid labral tear randomized to healthy control, suture alone, suture + PDGF, suture + bone marrow stimulation (BMS), or suture + PDGF + BMS: BMS alone recruited essentially no progenitor cells to the tear, whereas B</description>
-<enclosure url="https://ericerwagner-max.github.io/tutor-podcast-a3c1fb/2026-08-01%20Tutor.m4a" length="9530981" type="audio/x-m4a"/>
-</item>
-<item>
-<title>Shoulder Literature — 2026-07-26</title>
-<itunes:author>Eric R. Wagner, MD, MSc</itunes:author>
-<pubDate>Sun, 26 Jul 2026 08:00:00 +0000</pubDate>
-<guid isPermaLink="false">2026-07-26 Tutor.m4a</guid>
-<itunes:duration>22:07</itunes:duration>
-<itunes:image href="https://ericerwagner-max.github.io/tutor-podcast-a3c1fb/cover.png"/>
-<description>Weekly Shoulder Surgery Literature Digest — 2026-07-26
-Pulled from PubMed across JSES, JSES International, AJSM, JAAOS, Arthroscopy, JBJS Am, and Bone &amp; Joint Journal. Thin week — window widened to 14 days. The standard last-7-days pull surfaced only a handful of new shoulder items (below the ~8-article threshold), so per program rules the window was widened to 14 days (roughly 2026-07-12 to 2026-07-26). Most of what that widened window returned had already been covered in last week's (2026-07-18) sweeper digest — that run pulled the large JSES/JSES-International batch — and those duplicates were removed here. What remains is 4 genuinely new, non-duplicate, shoulder-specific clinical articles, one each in AJSM, Arthroscopy, JAAOS, and JBJS Am. Letters, errata, author replies, and editorials/editorial-commentaries were excluded (a JSES letter/reply on pharmacoepidemiologic real-world-data methods, a JSES editorial on the future growth of shoulder arthroplasty, and three Arthroscopy editorial commentaries — orthobiologics, stiff patients after cuff repair, and lower trapezius transfer), as were non-shoulder items (elbow — dynamic nerve MRI modeling, triceps-sparing total elbow arthroplasty, K-NOW unlinked total elbow kinematics; and the usual hip/knee/spine/foot content these general journals carry).
----
- American Journal of Sports Medicine (1)
-Nerve Blocks for Shoulder Arthroscopy: A Systematic Review of Randomized Controlled Trials With a Network Meta-analysis
-Hurley ET &amp; Garrigues GE — Department of Orthopaedic Surgery, Rush University Medical Center, Chicago, IL, USA
-A Level-I network meta-analysis of 63 RCTs (4,235 patients) comparing interscalene (ISB), suprascapular (SSB), and supraclavicular (SCB) blocks, combined block techniques, and general anesthesia alone for pain control after shoulder arthroscopy: interscalene block was the most consistent technique for reducing 24-hour opioid consumption (SUCRA 77.5%), while combined and alternative strategies (SCB+axillary at 2 h, SSB+costoclavicular at 6 h, SSB alone at 12 h) gave incremental pain-control advantages at specific early time points, with only modest separation from ISB by 24 hours.
-PubMed
----
- Arthroscopy (1)
-Comparable Midterm Outcomes for Ultrasound-Guided Needling Versus High-Energy Shockwave Therapy for Rotator Cuff Calcific Tendinitis: A Randomized Controlled Trial
-van Noort DM &amp; van Noort A — Department of Orthopaedic Surgery, Spaarne Gasthuis, Hoofddorp, Netherlands
-Five-year follow-up of an RCT in 82 patients (67, 82%, reassessed) with symptomatic rotator cuff calcific tendinitis (5 mm, Gärtner I–II) that had failed nonoperative care including a subacromial steroid injection, randomized to four sessions of high-energy extracorporeal shockwave therapy (ESWT) or a single ultrasound-guided needling/lavage (UGN): both arms reached excellent midterm Constant-Murley scores (94.4 vs 93.3, p=0.67) with 94% meeting the MCID and no recurrence of treated deposits, though additional trea</description>
-<enclosure url="https://ericerwagner-max.github.io/tutor-podcast-a3c1fb/2026-07-26%20Tutor.m4a" length="5512540" type="audio/x-m4a"/>
 </item>
 </channel>
 </rss>
